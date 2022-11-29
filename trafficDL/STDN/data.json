@@ -1,0 +1,7 @@
+{
+    "volume": "./data/i10_data.npy",
+    "volume_max": 18.2595,
+    "timeslot_sec": 1800,
+    "threshold": 0.1,
+    "description": "./data/Readme.txt"
+}
