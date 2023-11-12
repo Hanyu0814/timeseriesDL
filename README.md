@@ -1,8 +1,9 @@
 # timeseries DL - Time Series Traffic Flow Prediction
 
 ## Models
-STDN
-Traffic Transformer
+- STDN: CNN + LSTM
+
+- Traffic Transformer
 
 ## Installation
 STDN
